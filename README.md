@@ -1,2 +1,2 @@
 # ContinousIntegrationExp
-TEsgin Coontinuous Integration
+Testing Coontinuous Integration on GitHub

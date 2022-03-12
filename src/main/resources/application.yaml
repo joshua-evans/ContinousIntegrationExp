@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: josh-spring-test
+  config:
+    activate:
+      on-profile: test
+server:
+  port: 3000
+  servlet:
+    context-path: /test
